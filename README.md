@@ -1,4 +1,6 @@
 # Aseprite-Compiler
+A simple batch script with jsut copy and paste to compile aseprite automatically.
+(I'll update this so that you don't need to install source code)
 
 # Setup
 Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md
