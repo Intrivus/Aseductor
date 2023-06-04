@@ -9,7 +9,9 @@ Put Skia and Aseprite in a folder in Downloads named "Compressed"
 Create a folder named "Skia Windows" and a folder named "Aseprite" in "Compressed"
 - In "Skia Windows" create a new folder named "skia" then extract skia source code in there
 - In "Aseprite" extract Aseprite source code in
-(Remember to only extract the file and stuff of the source code and not the whole folder)
+
+**Important**
+Run the script as Admin else it won't copy the file
 
 I'll make a video soon although this is only a very simple batch script :D
 
