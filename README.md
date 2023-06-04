@@ -12,3 +12,7 @@ Create a folder named "Skia Windows" and a folder named "Aseprite" in "Compresse
 (Remember to only extract the file and stuff of the source code and not the whole folder)
 
 I'll make a video soon although this is only a very simple batch script :D
+
+#Others
+The script automatically compile aseprite in C:/aseprite/build/bin
+You can delete the aseprite folder in C:/ after finish compiling if you already moved the program
