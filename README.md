@@ -16,7 +16,7 @@
 
 **Important**
 - New update: 
-  + You don't need to install Aseprite source code at first if you don't want to because you can just copy the source code link and paste into the command prompt.
+  + You don't need to install Aseprite source code at first if you don't want to because you can just copy the source code link and paste into the command prompt. (Tutorial soon)
   + If you still want to, install the source code like the Setup above.
 - Run the script as Admin else it won't copy the files
 - Only extract the source code inside those zip files
