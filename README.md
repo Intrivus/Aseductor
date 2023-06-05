@@ -3,7 +3,7 @@
 - A simple batch script with just copy and paste to compile aseprite automatically so that you can do your work while Aseprite is compiling in the background
 
 # Setup
-- Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md#windows-dependencies
+- Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md#dependencies
 - Install Skia and Aseprite source code (Aseprite any versions)
   + https://github.com/aseprite/aseprite/releases
   + https://github.com/aseprite/skia/releases
