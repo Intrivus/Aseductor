@@ -1,5 +1,6 @@
 # Aseprite Compiler
-A simple batch script with just copy and paste to compile aseprite automatically so that you can do your work while Aseprite is compiling in the background
+- I've got the idea of making this script for a long time now as I see lots of people suffering trying to Compile Aseprite like myself. It took me a whole week to compile the program myself that's why I wanna help people
+- A simple batch script with just copy and paste to compile aseprite automatically so that you can do your work while Aseprite is compiling in the background
 
 # Setup
 - Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md
@@ -10,6 +11,7 @@ A simple batch script with just copy and paste to compile aseprite automatically
 - Create a folder named "Skia Windows" and a folder named "Aseprite" in "Compressed"
   + In "Skia Windows" create a new folder named "skia" then extract skia release files there
   + In "Aseprite" extract Aseprite source code in
+- Tutorial made by me: https://youtu.be/gsPpLAgT-iI
 
 **Important**
 - Run the script as Admin else it won't copy the files
