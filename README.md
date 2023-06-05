@@ -11,7 +11,7 @@ A simple batch script with just copy and paste to compile aseprite automatically
   + In "Aseprite" extract Aseprite source code in
 
 **Important**
-- Run the script as Admin else it won't copy the file
+- Run the script as Admin else it won't copy the files
 - Only extract the source code inside those zip files
 
 I'll make a video soon although this is only a very simple batch script :D
