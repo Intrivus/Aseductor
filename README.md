@@ -1,6 +1,5 @@
 # Aseprite Compiler
-A simple batch script with just copy and paste to compile aseprite automatically.
-(I'll update this so that you don't need to install source code)
+A simple batch script with just copy and paste to compile aseprite automatically so that you can do your work while Aseprite is compiling in the background
 
 # Setup
 - Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md
