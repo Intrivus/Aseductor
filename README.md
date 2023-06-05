@@ -1,4 +1,4 @@
-# Aseprite-Compiler
+# Aseprite Compiler
 A simple batch script with just copy and paste to compile aseprite automatically.
 (I'll update this so that you don't need to install source code)
 
