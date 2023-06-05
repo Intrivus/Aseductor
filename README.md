@@ -4,6 +4,8 @@ A simple batch script with just copy and paste to compile aseprite automatically
 # Setup
 - Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md
 - Install Skia and Aseprite source code (Aseprite any versions)
+  + https://github.com/aseprite/aseprite/releases
+  + https://github.com/aseprite/skia/releases
 - Put Skia and Aseprite in a folder in Downloads named "Compressed"
 - Create a folder named "Skia Windows" and a folder named "Aseprite" in "Compressed"
   + In "Skia Windows" create a new folder named "skia" then extract skia release files there
