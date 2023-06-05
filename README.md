@@ -12,8 +12,6 @@
   + In "Skia Windows" create a new folder named "skia" then extract skia release files there
   + In "Aseprite" extract Aseprite source code in
 - Tutorial made by me: https://youtu.be/gsPpLAgT-iI
-  + ![image](https://github.com/Perndoe/Aseductor/assets/81963564/097a10bc-aa43-46f4-9159-36fb9cd344d3)
-
 
 **Important**
 - Run the script as Admin else it won't copy the files
