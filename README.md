@@ -40,10 +40,13 @@
     + You must prepare the set up as shown in https://github.com/Perndoe/Aseductor/edit/main/README.md#setup
     + After opening the script, close the browser tab that open at the start and type "skip" into the command prompt. You will see some errors but it is fine
 
+- The script automatically compiles Aseprite to C:/aseprite/build/bin so if the script didn't open File Explorer, you can find it yourself
+- Keep "data" folder and "aseprite.exe" in "bin" and you can remove the 3 other files
+- You must delete the "deps" and the "aseprite" folder in "C:/" after finish compiling if you have already moved the "bin" folder out
+- Keeping "Skia Windows" folder for future updates is recommended
+
 # Notes
-- The script automatically compile aseprite to C:/aseprite/build/bin
-- You must delete the "deps" and the "aseprite" folder in "C:/" after finish compiling if you have already moved the program
-- Remember to keep "Skia Windows" folder for future updates and you can delete the "Aseprite" folder in "Compressed"
+- Don't worry if you can't find the "Aseprite" folder in "Compressed" after compiling :D
 - If the compilation failed, rewatch my video and follow it step by step or DM me through Discord Pando#3474
 - Links for commands that I don't know: 
   + https://stackoverflow.com/questions/4619088/windows-batch-file-file-download-from-a-url
