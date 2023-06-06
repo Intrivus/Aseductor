@@ -28,7 +28,9 @@ I'll make a video soon although this is only a very simple batch script :D
 # Installation
 - Install the latest version of the script: https://github.com/Perndoe/Aseductor/releases
 - Run the script as Administrator so that it'll copy the files to C:\
-**To make sure it work well**
+<br />
+<br />**To make sure it work well, here are 2 ways of compiling**
+<br />
 - Need Internet:
   + After opening the script, a browser tab will pop up. Find the Aseprite version you wanted and copy its link address
   <br /> ![image](https://github.com/Perndoe/Aseductor/assets/81963564/48c0c6af-b4ae-441a-9a52-0c0fd617ce68) 
@@ -39,7 +41,6 @@ I'll make a video soon although this is only a very simple batch script :D
 - No Internet
   + You must prepare the set up as shown in https://github.com/Perndoe/Aseductor/edit/main/README.md#setup
   + After opening the script, close the browser tab that open at the start and type "skip" into the command prompt.
-
 
 # Others
 - The script automatically compile aseprite in C:/aseprite/build/bin
