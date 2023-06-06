@@ -1,10 +1,16 @@
 # Aseductor
-- I've got the idea of making this script for a long time now as I see lots of people suffering trying to Compile Aseprite like myself. It took me a whole week to compile the program myself that's why I wanna help people
 - A simple batch script with just copy and paste to compile aseprite automatically so that you can do your work while Aseprite is compiling in the background
+- I've got the idea of making this script for a long time now as I see lots of people suffering trying to Compile Aseprite like myself. It took me a whole week to compile the program myself that's why I wanna help people
 - Btw, I don't even know how to use bat. I search google for 70% of the code :D
 
 # Setup
+
+**Tutorial made by me**: https://youtu.be/gsPpLAgT-iI
+
 - Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md#dependencies
+  + Add ninja.exe to C:\Program Files\Ninja then add C:\Program Files\Ninja\ninja.exe to Path
+  + Add C:\Program Files\CMake\bin to Path
+  + (Recommend watching the video)
 - Install Skia and Aseprite source code (Aseprite any versions)
   + https://github.com/aseprite/aseprite/releases
   + https://github.com/aseprite/skia/releases
@@ -12,16 +18,26 @@
 - Create a folder named "Skia Windows" and a folder named "Aseprite" in "Compressed"
   + In "Skia Windows" create a new folder named "skia" then extract skia release files there
   + In "Aseprite" extract Aseprite source code in
-- Tutorial made by me: https://youtu.be/gsPpLAgT-iI
 
 **Important**
-- New update: 
-  + You don't need to install Aseprite source code at first if you don't want to because you can just copy the source code link and paste into the command prompt. (Tutorial soon)
-  + If you still want to, install the source code like the Setup above.
-- Run the script as Admin else it won't copy the files
+- I'll make a video for new updates if you can't find it here
 - Only extract the source code inside those zip files
 
 I'll make a video soon although this is only a very simple batch script :D
+
+# Installation
+- Install the latest version of the script: https://github.com/Perndoe/Aseductor/releases
+- Run the script as Administrator so that it'll copy the files to C:\
+**To make sure it work well**
+- Need Internet:
+  + After opening the script, a browser tab will pop up. Find the Aseprite version you wanted and copy its link address
+  ![image](https://github.com/Perndoe/Aseductor/assets/81963564/48c0c6af-b4ae-441a-9a52-0c0fd617ce68)
+  + Then paste into the script window
+  + Only do this method if you don't want to download Aseprite source code and set up it yourself
+- No Internet
+  + You must prepare the set up as shown in https://github.com/Perndoe/Aseductor/edit/main/README.md#setup
+  + After opening the script, close the browser tab that open at the start and type "skip" into the command prompt.
+
 
 # Others
 - The script automatically compile aseprite in C:/aseprite/build/bin
