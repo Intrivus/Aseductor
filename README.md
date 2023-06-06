@@ -6,6 +6,7 @@
 # Setup
 
 **Tutorial made by me**: https://youtu.be/gsPpLAgT-iI (I recommend reading through the whole setup and compilation part first)
+<br> Remember to read https://github.com/Perndoe/Aseductor#notes
 
 - Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md#dependencies
   + Add ninja.exe to C:\Program Files\Ninja then add C:\Program Files\Ninja\ninja.exe to Path
@@ -40,7 +41,7 @@
     + After opening the script, close the browser tab that open at the start and type "skip" into the command prompt. You will see some errors but it is fine
 
 # Notes
-- The script automatically compile aseprite in C:/aseprite/build/bin
+- The script automatically compile aseprite to C:/aseprite/build/bin
 - You can delete the "deps" and the "aseprite" folder in "C:/" after finish compiling if you already moved the program
 - Remember to keep "Skia Windows" folder for future updates and you can delete the "Aseprite" folder in "Compressed"
 - The reason why I don't make it automatically install the Aseprite source code because you can install any versions you like
