@@ -31,7 +31,7 @@ I'll make a video soon although this is only a very simple batch script :D
 **To make sure it work well**
 - Need Internet:
   + After opening the script, a browser tab will pop up. Find the Aseprite version you wanted and copy its link address
-  ![image](https://github.com/Perndoe/Aseductor/assets/81963564/48c0c6af-b4ae-441a-9a52-0c0fd617ce68) 
+  <br /> ![image](https://github.com/Perndoe/Aseductor/assets/81963564/48c0c6af-b4ae-441a-9a52-0c0fd617ce68) 
   <br /> (Currently copying "Aseprite-v1.3-rc4-Source.zip" link address)
   <br />
   + Then paste into the script window
