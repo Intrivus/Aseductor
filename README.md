@@ -45,6 +45,14 @@
 - You must delete the "deps" and the "aseprite" folder in "C:/" after finish compiling if you have already moved the "bin" folder out
 - Keeping "Skia Windows" folder for future updates is recommended
 
+# Compilation and Delete caches
+- Install "Aseductor.DelCache.bat" from https://github.com/Perndoe/Aseductor/releases
+- After Aseprite is compiled, the script will move the program to Desktop/Compiled Aseprite
+- It will delete these files after compiling:
+  + C:\deps
+  + C:\aseprite
+- Make sure there is no folder in Desktop named "Compiled Aseprite" if you use this script
+
 # Notes
 - Don't worry if you can't find the "Aseprite" folder in "Compressed" after compiling :D
 - If the compilation failed, rewatch my video and follow it step by step or DM me through Discord Pando#3474
@@ -55,3 +63,4 @@
   + https://stackoverflow.com/questions/28481915/how-to-make-chat-bot-in-batch
   + https://stackoverflow.com/questions/26223936/open-a-web-page-in-a-windows-batch-file
   + https://stackoverflow.com/questions/19422604/batch-script-for-renaming-and-then-moving-files-from-1-folder-to-another
+  + https://stackoverflow.com/questions/16502283/how-do-i-fix-access-denied-with-the-move-command-in-windows-7
