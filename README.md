@@ -5,7 +5,7 @@
 
 # Setup
 
-**Tutorial made by me**: https://youtu.be/gsPpLAgT-iI
+**Tutorial made by me**: https://youtu.be/gsPpLAgT-iI (I recommend reading through the whole setup and compilation part first)
 
 - Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md#dependencies
   + Add ninja.exe to C:\Program Files\Ninja then add C:\Program Files\Ninja\ninja.exe to Path
@@ -23,7 +23,7 @@
 - I'll make a video for new updates if you can't find it here
 - Only extract the source code inside those zip files
 
-# Installation
+# Compilation
 - Install the latest version of the script: https://github.com/Perndoe/Aseductor/releases
 - Run the script as Administrator so that it'll copy the files to C:\\
 - **To make sure it work well, here are 2 ways of compiling**
