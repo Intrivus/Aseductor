@@ -1,7 +1,7 @@
 @echo off
 
 ::Download Aseprite Source code
-echo Link of the Aseprite version you want to install:
+echo Insert link of Aseprite version you want to compile:
 
 timeout /t 2 /nobreak >nul
 start https://github.com/aseprite/aseprite/releases/
