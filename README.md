@@ -26,7 +26,7 @@
 # Installation
 - Install the latest version of the script: https://github.com/Perndoe/Aseductor/releases
 - Run the script as Administrator so that it'll copy the files to C:\\
--**To make sure it work well, here are 2 ways of compiling**
+- **To make sure it work well, here are 2 ways of compiling**
   - Need Internet:
     + After opening the script, a browser tab will pop up. Find the Aseprite version you wanted and copy its link address
     + Then paste into the script window
