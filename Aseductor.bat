@@ -7,11 +7,11 @@ timeout /t 2 /nobreak >nul
 start https://github.com/aseprite/aseprite/releases/
 
 set /p input="> "
-powershell -Command "Invoke-WebRequest %input% -OutFile %USERPROFILE%\Downloads\Compressed\aseprite.zip"
+powershell -Command "Invoke-WebRequest %input% -OutFile %USERPROFILE%\Downloads\Compressed\asepritesc.zip"
 @echo on
 
 ::Extract Source code
-powershell Expand-Archive %USERPROFILE%\Downloads\Compressed\aseprite.zip -DestinationPath %USERPROFILE%\Downloads\Compressed\Aseprite
+powershell Expand-Archive %USERPROFILE%\Downloads\Compressed\asepritesc.zip -DestinationPath %USERPROFILE%\Downloads\Compressed\Aseprite
 
 ::Call Developer Command Prompt
 call "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\VsDevCmd.bat" -arch=x64
@@ -22,6 +22,9 @@ cd C:\
 md "aseprite"\"build"
 xcopy "%USERPROFILE%\Downloads\Compressed\Skia Windows" "C:\deps\" /E
 xcopy "%USERPROFILE%\Downloads\Compressed\Aseprite" "C:\aseprite\" /E
+
+::Remove Downloaded Source code
+DEL %USERPROFILE%\Downloads\Compressed\asepritesc.zip
 
 cd C:\aseprite\build
 
