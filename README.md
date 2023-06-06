@@ -29,7 +29,7 @@
 - **To make sure it work well, here are 2 ways of compiling**
   - Need Internet:
     + After opening the script, a browser tab will pop up. Find the Aseprite version you wanted and copy its link address
-    + Then paste into the script window
+    + Then paste into the script window. It will install "asepritesc.zip" in "Downloads\Compressed" folder so don't delete it by yourself
     + Only do this method if you don't want to download Aseprite source code and set up it yourself
     <br> ![image](https://github.com/Perndoe/Aseductor/assets/81963564/48c0c6af-b4ae-441a-9a52-0c0fd617ce68) 
     <br> (Currently copying "Aseprite-v1.3-rc4-Source.zip" link address)
