@@ -42,12 +42,13 @@
 
 # Notes
 - The script automatically compile aseprite to C:/aseprite/build/bin
-- You can delete the "deps" and the "aseprite" folder in "C:/" after finish compiling if you already moved the program
+- You must delete the "deps" and the "aseprite" folder in "C:/" after finish compiling if you have already moved the program
 - Remember to keep "Skia Windows" folder for future updates and you can delete the "Aseprite" folder in "Compressed"
-- The reason why I don't make it automatically install the Aseprite source code because you can install any versions you like
+- If the compilation failed, rewatch my video and follow it step by step or DM me through Discord Pando#3474
 - Links for commands that I don't know: 
   + https://stackoverflow.com/questions/4619088/windows-batch-file-file-download-from-a-url
   + https://stackoverflow.com/questions/21704041/creating-batch-script-to-unzip-a-file-without-additional-zip-tools
   + https://stackoverflow.com/questions/24546150/how-can-prevent-a-powershell-window-from-closing-so-i-can-see-the-error
   + https://stackoverflow.com/questions/28481915/how-to-make-chat-bot-in-batch
   + https://stackoverflow.com/questions/26223936/open-a-web-page-in-a-windows-batch-file
+  + https://stackoverflow.com/questions/19422604/batch-script-for-renaming-and-then-moving-files-from-1-folder-to-another
