@@ -11,7 +11,7 @@
 - Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md#dependencies
   + Add ninja.exe to C:\Program Files\Ninja then add C:\Program Files\Ninja\ninja.exe to Path
   + Add C:\Program Files\CMake\bin to Path
-  + (Recommend watching the video)
+  + (As shown in the video)
 - Install Skia and Aseprite source code (Aseprite any versions)
   + https://github.com/aseprite/aseprite/releases
   + https://github.com/aseprite/skia/releases
