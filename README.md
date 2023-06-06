@@ -41,8 +41,8 @@
 
 # Others
 - The script automatically compile aseprite in C:/aseprite/build/bin
-- You can delete the deps or the aseprite folder in C:/ after finish compiling if you already moved the program
-- Remember to keep "Skia Windows" folder for future updates and you could delete Aseprite source code
+- You can delete the "deps" and the "aseprite" folder in "C:/" after finish compiling if you already moved the program
+- Remember to keep "Skia Windows" folder for future updates and you can delete the "Aseprite" folder in "Compressed"
 - The reason why I don't make it automatically install the Aseprite source code because you can install any versions you like
 - Links for commands that I don't know: 
   + https://stackoverflow.com/questions/4619088/windows-batch-file-file-download-from-a-url
