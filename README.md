@@ -23,24 +23,21 @@
 - I'll make a video for new updates if you can't find it here
 - Only extract the source code inside those zip files
 
-I'll make a video soon although this is only a very simple batch script :D
-
 # Installation
 - Install the latest version of the script: https://github.com/Perndoe/Aseductor/releases
-- Run the script as Administrator so that it'll copy the files to C:\
-<br />
-<br />**To make sure it work well, here are 2 ways of compiling**
-<br />
-- Need Internet:
-  + After opening the script, a browser tab will pop up. Find the Aseprite version you wanted and copy its link address
-  <br /> ![image](https://github.com/Perndoe/Aseductor/assets/81963564/48c0c6af-b4ae-441a-9a52-0c0fd617ce68) 
-  <br /> (Currently copying "Aseprite-v1.3-rc4-Source.zip" link address)
-  <br />
-  + Then paste into the script window
-  + Only do this method if you don't want to download Aseprite source code and set up it yourself
-- No Internet
-  + You must prepare the set up as shown in https://github.com/Perndoe/Aseductor/edit/main/README.md#setup
-  + After opening the script, close the browser tab that open at the start and type "skip" into the command prompt.
+- Run the script as Administrator so that it'll copy the files to C:\\
+-**To make sure it work well, here are 2 ways of compiling**
+  - Need Internet:
+    + After opening the script, a browser tab will pop up. Find the Aseprite version you wanted and copy its link address
+    + Then paste into the script window
+    + Only do this method if you don't want to download Aseprite source code and set up it yourself
+    <br> ![image](https://github.com/Perndoe/Aseductor/assets/81963564/48c0c6af-b4ae-441a-9a52-0c0fd617ce68) 
+    <br> (Currently copying "Aseprite-v1.3-rc4-Source.zip" link address)
+    <br>
+    
+  - No Internet
+    + You must prepare the set up as shown in https://github.com/Perndoe/Aseductor/edit/main/README.md#setup
+    + After opening the script, close the browser tab that open at the start and type "skip" into the command prompt.
 
 # Others
 - The script automatically compile aseprite in C:/aseprite/build/bin
