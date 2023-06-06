@@ -39,7 +39,7 @@
     + You must prepare the set up as shown in https://github.com/Perndoe/Aseductor/edit/main/README.md#setup
     + After opening the script, close the browser tab that open at the start and type "skip" into the command prompt. You will see some errors but it is fine
 
-# Others
+# Notes
 - The script automatically compile aseprite in C:/aseprite/build/bin
 - You can delete the "deps" and the "aseprite" folder in "C:/" after finish compiling if you already moved the program
 - Remember to keep "Skia Windows" folder for future updates and you can delete the "Aseprite" folder in "Compressed"
