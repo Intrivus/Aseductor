@@ -18,13 +18,12 @@ call "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\VsDe
 @echo on
 
 ::Copy core files
-cd C:\
-md "aseprite"\"build"
 xcopy "%USERPROFILE%\Downloads\Compressed\Skia Windows" "C:\deps\" /E
-xcopy "%USERPROFILE%\Downloads\Compressed\Aseprite" "C:\aseprite\" /E
+robocopy "%USERPROFILE%\Downloads\Compressed\Aseprite" "C:\aseprite" /E /MOVE
+mkdir C:\aseprite\build
 
 ::Remove Downloaded Source code
-DEL %USERPROFILE%\Downloads\Compressed\asepritesc.zip
+del %USERPROFILE%\Downloads\Compressed\asepritesc.zip
 
 cd C:\aseprite\build
 
@@ -33,5 +32,10 @@ cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -DLAF_BACKEND=skia -DSKIA_DIR=C:\deps\sk
 
 ::Export build
 ninja aseprite
+
+::Finishes steps
+echo Compilation successful! Opening Aseprite location...
+timeout /t 2 /nobreak >nul
+%SystemRoot%\explorer.exe "C:\aseprite\build\bin"
 
 pause >nul
