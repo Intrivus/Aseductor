@@ -5,7 +5,7 @@
 
 # Setup
 
-**Tutorial made by me**: https://youtu.be/gsPpLAgT-iI (I recommend reading through the whole setup and compilation part first)
+**Tutorial made by me**: https://youtu.be/gsPpLAgT-iI (Recommend combining both reading and watching video so that it is uptodate)
 <br> Remember to read https://github.com/Perndoe/Aseductor#notes
 
 - Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md#dependencies
