@@ -6,7 +6,8 @@
 # Setup
 
 **Tutorial made by me**: https://youtu.be/gsPpLAgT-iI (Recommend combining both reading and watching video so that it is uptodate)
-<br> Remember to read https://github.com/Perndoe/Aseductor#notes
+<br>
+<br>Remember to read https://github.com/Perndoe/Aseductor#notes
 
 - Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md#dependencies
   + Add ninja.exe to C:\Program Files\Ninja then add C:\Program Files\Ninja\ninja.exe to Path
