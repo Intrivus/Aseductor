@@ -7,7 +7,7 @@
 
 **Tutorial made by me**: https://youtu.be/gsPpLAgT-iI 
 <br>
-(Recommend combining both reading and watching video so that the script is uptodate)
+(Recommend combining both reading and watching video for further updates details)
 <br>
 <br>Remember to read https://github.com/Perndoe/Aseductor#notes
 
