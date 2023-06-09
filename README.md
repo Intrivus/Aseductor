@@ -48,7 +48,7 @@
 - You must delete the "deps" and the "aseprite" folder in "C:/" after finish compiling if you have already moved the "bin" folder out
 - Keeping "Skia Windows" folder for future updates is recommended
 
-# Compilation and Delete caches
+# Compilation & Deleting caches
 - Install "Aseductor.DelCache.bat" from https://github.com/Perndoe/Aseductor/releases
 - After Aseprite is compiled, the script will move the program to Desktop/Compiled Aseprite
 - It will delete these files after compiling:
