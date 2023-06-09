@@ -5,7 +5,9 @@
 
 # Setup
 
-**Tutorial made by me**: https://youtu.be/gsPpLAgT-iI (Recommend combining both reading and watching video so that it is uptodate)
+**Tutorial made by me**: https://youtu.be/gsPpLAgT-iI 
+<br>
+(Recommend combining both reading and watching video so that the script is uptodate)
 <br>
 <br>Remember to read https://github.com/Perndoe/Aseductor#notes
 
