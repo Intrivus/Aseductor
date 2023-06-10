@@ -34,6 +34,7 @@ cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -DLAF_BACKEND=skia -DSKIA_DIR=C:\deps\sk
 ninja aseprite
 
 ::Finishes steps
+@echo off
 echo Compilation successful! Opening Aseprite location...
 timeout /t 2 /nobreak >nul
 %SystemRoot%\explorer.exe "C:\aseprite\build\bin"
