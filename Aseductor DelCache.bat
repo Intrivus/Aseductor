@@ -40,7 +40,13 @@ echo Compilation successful! Deleting caches...
 ::Delete caches
 move "C:\aseprite\build\bin" "%USERPROFILE%\Desktop\Compiled Aseprite"
 rmdir /s /q C:\deps
+echo 	1 dir(s) removed
 rmdir /s /q C:\aseprite
-@echo on
+echo 	1 dir(s) removed
+
+::Open Aseprite location
+echo Finished deleting caches! Opening Aseprite location...
+timeout /t 2 /nobreak >nul
+%SystemRoot%\explorer.exe "%USERPROFILE%\Desktop\Compiled Aseprite"
 
 pause >nul
