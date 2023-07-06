@@ -35,8 +35,10 @@ ninja aseprite
 
 ::Finishes steps
 @echo off
-echo Compilation successful! Opening Aseprite location...
+echo Compilation completed! Opening Aseprite location...
 timeout /t 2 /nobreak >nul
 %SystemRoot%\explorer.exe "C:\aseprite\build\bin"
+timeout /t 1 /nobreak >nul
+echo If the program directory is not opened, some errors must have occured. Please recheck the process and follow "README.md" again
 
 pause >nul

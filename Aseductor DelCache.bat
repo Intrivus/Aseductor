@@ -35,7 +35,7 @@ ninja aseprite
 
 ::Finishes steps
 @echo off
-echo Compilation successful! Deleting caches...
+echo Compilation completed! Deleting caches...
 
 ::Delete caches
 move "C:\aseprite\build\bin" "%USERPROFILE%\Desktop\Compiled Aseprite"
@@ -48,5 +48,7 @@ echo 	1 dir(s) removed
 echo Finished deleting caches! Opening Aseprite location...
 timeout /t 2 /nobreak >nul
 %SystemRoot%\explorer.exe "%USERPROFILE%\Desktop\Compiled Aseprite"
+timeout /t 1 /nobreak >nul
+echo If there is no "Compiled Aseprite" folder in your desktop or the folder is empty, some errors must have occured or there is already an existing folder with the same name. Please recheck the process and follow "README.md" again
 
 pause >nul
