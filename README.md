@@ -25,7 +25,7 @@
   + In "Aseprite" extract Aseprite source code in
 
 **Important**
-- I'll make a video for new updates if you can't find it here
+- I'll make a video for new updates (when I am free) if you can't find it here
 - Only extract the source code inside those zip files
 
 # Compilation
