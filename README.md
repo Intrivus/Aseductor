@@ -35,7 +35,7 @@
   - Need Internet: (The process will take a bit longer than manually setting up)
     + After opening the script, a browser tab will pop up. Find the Aseprite version you wanted and copy its link address
     + Then paste into the script window. It will install "asepritesc.zip" in "Downloads\Compressed" folder so don't delete it by yourself
-    + Only use this method if you don't want to download Aseprite source code and set up it yourself
+    + Only use this method if you don't want to download Aseprite source code and set it up yourself
     <br> ![image](https://github.com/Perndoe/Aseductor/assets/81963564/48c0c6af-b4ae-441a-9a52-0c0fd617ce68) 
     <br> (Currently copying "Aseprite-v1.3-rc4-Source.zip" link address)
     <br>
