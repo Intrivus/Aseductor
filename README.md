@@ -33,7 +33,7 @@
 - Run the script as Administrator so that it'll copy the files to C:\\
 - **To make sure it work well, here are 2 ways of compiling**
   - Need Internet: (The process will take a bit longer than manually setting up)
-    + You don't need to install Aseprite source code yourself
+    + You don't need to install Aseprite source code yourself (Skia is still required)
     + After opening the script, a browser tab will pop up. Find the Aseprite version you wanted and copy its link address
     + Then paste into the script window. It will install "asepritesc.zip" in "Downloads\Compressed" folder so don't delete it by yourself
     + Only use this method if you don't want to download Aseprite source code and set it up yourself
