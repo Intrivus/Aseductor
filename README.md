@@ -61,7 +61,7 @@
 # Notes
 - As I don't have a Mac computer, I can't really make a Mac version sincerely sorry :(
 - Don't worry if you can't find the "Aseprite" folder in "Compressed" after compiling :D
-- If the compilation failed, rewatch my video and follow it step by step or DM me through Discord "perndoe"
+- If the compilation failed, rewatch my video and follow it step by step or DM me through Discord "perndoe" and "demongaminglp"
 - Links for commands that I don't know: 
   + https://stackoverflow.com/questions/4619088/windows-batch-file-file-download-from-a-url
   + https://stackoverflow.com/questions/21704041/creating-batch-script-to-unzip-a-file-without-additional-zip-tools
