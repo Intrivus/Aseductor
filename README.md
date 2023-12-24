@@ -59,7 +59,7 @@
 - Make sure there is no folder in Desktop named "Compiled Aseprite" if you use this script
 
 # Notes
-- As I don't have a Mac computer, I can't really make a Mac version sincerely sorry :(
+- As I don't have a Mac computer, I can't really make a Mac version, sincerely sorry :(
 - Don't worry if you can't find the "Aseprite" folder in "Compressed" after compiling :D
 - If the compilation failed, rewatch my video and follow it step by step or DM me through Discord "perndoe" and "demongaminglp"
 - Links for commands that I don't know: 
