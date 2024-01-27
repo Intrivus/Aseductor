@@ -1,13 +1,13 @@
 # Aseductor
-- A simple batch script with just copy and paste to compile aseprite automatically so that you can do your work while Aseprite is compiling in the background
-- I've got the idea of making this script for a long time now as I see lots of people suffering from trying to Compile Aseprite like myself. It took me a whole week to compile the program myself that's why I wanna help people
+- A simple batch script to compile aseprite automatically with just copying and pasting so that you can do your work while the work is being done in the background
+- I've come up with idea of making this script for a long time now as I see lots of people suffering in an attempt to compile Aseprite (like me). It took me a (whole) week to compile the program myself that's why I wanna help people
 - I am not good at using batch so I searched google for 70% of the code :D
 
 # Setup
 
 **Tutorial made by me**: https://youtu.be/gsPpLAgT-iI 
 <br>
-(Recommend combining both reading and watching video for further updates details)
+(Recommend combining both reading and watching video to stay updated)
 <br>
 <br>Remember to read https://github.com/Perndoe/Aseductor#notes
 
