@@ -42,7 +42,7 @@
     <br>
     
   - No Internet
-    + You must prepare the set up as shown in https://github.com/Perndoe/Aseductor/edit/main/README.md#setup
+    + You must prepare and set up as shown in https://github.com/Perndoe/Aseductor/edit/main/README.md#setup
     + After opening the script, close the browser tab that open at the start and type "skip" into the command prompt. You will see some errors but it is fine
 
 - The script automatically compiles Aseprite to C:/aseprite/build/bin so if the script didn't open File Explorer, you can find it yourself
