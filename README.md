@@ -5,7 +5,7 @@
 
 # Setup
 
-**Tutorial made by me**: https://youtu.be/gsPpLAgT-iI 
+**Tutorial**: https://youtu.be/gsPpLAgT-iI 
 <br>
 (Recommend combining both reading and watching video to stay updated)
 <br>
