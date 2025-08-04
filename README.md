@@ -1,5 +1,5 @@
 # Aseductor
-- A simple batch script to compile Aseprite automatically with little effort . Process will occur in the background.
+- A simple batch script to compile Aseprite automatically with little effort. Process will occur in the background.
 - I am not a batch programmer, so I googled lots of commands (cited below).
 
 # Setup
