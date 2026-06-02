@@ -18,7 +18,7 @@
 - Install Skia and Aseprite source code (Aseprite any versions)
   + https://github.com/aseprite/aseprite/releases
   + https://github.com/aseprite/skia/releases
-- Put Skia and Aseprite in a folder in Downloads named "Compressed" (Yes I use IDM)
+- Put Skia and Aseprite in a folder in Downloads named "Compressed" (Yes I use Download Managers)
 - Create a folder named "Skia Windows" and a folder named "Aseprite" in "Compressed"
   + In "Skia Windows" create a new folder named "skia" then extract skia release files there
   + In "Aseprite" extract Aseprite source code in
