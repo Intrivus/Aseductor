@@ -11,7 +11,7 @@
 <br>Remember to read https://github.com/Perndoe/Aseductor#notes
 
 - Install Visual Studio and dependencies as mentioned in https://github.com/aseprite/aseprite/blob/main/INSTALL.md#dependencies
-  + Add ninja.exe to C:\Program Files\Ninja then add C:\Program Files\Ninja\ninja.exe to Path
+  + Add ninja.exe to C:\Program Files\Ninja (or anywhere else) then add C:\Program Files\Ninja\ninja.exe to Path
   + Add C:\Program Files\CMake\bin to Path
   + If you don't know how to then check https://gist.github.com/nex3/c395b2f8fd4b02068be37c961301caa7
   + Check the video for visual representation
