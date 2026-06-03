@@ -15,7 +15,7 @@
   + Add C:\Program Files\CMake\bin to Path
   + For those who do not know how to add to Path: https://gist.github.com/nex3/c395b2f8fd4b02068be37c961301caa7
   + Check the video for visual representation
-- Install Skia and Aseprite source code (Aseprite any versions)
+- Install Skia and Aseprite source code (The latest version)
   + https://github.com/aseprite/aseprite/releases
   + https://github.com/aseprite/skia/releases
 - Put Skia and Aseprite in a folder in Downloads named "Compressed" (Yes I use Download Managers)
