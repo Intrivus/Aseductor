@@ -1,3 +1,11 @@
+# NOTICE:
+
+> [!IMPORTANT]
+> **Aseprite developers have released their own version of compiling automation.**
+> Contributions are still welcome, and this repo will remain open for adaptation or enhancement purposes.
+
+
+
 # Aseductor
 - A simple batch script to compile Aseprite automatically with little effort. Process will occur in the background.
 - I am not a batch programmer, so I googled lots of commands (cited below).
@@ -58,7 +66,6 @@
 - Make sure there is no folder in Desktop named "Compiled Aseprite" if you use this script
 
 # Notes
-- Feel free to adapt the script to your own need, for this was originally intended for update automation which prioritized convenience.
 - Because I don't have an Apple device, I can't really make a Mac version, sincerely sorry :(
 - Don't worry if you can't find the "Aseprite" folder in "Compressed" after compiling
 - If the compilation failed, rewatch my video, follow step by step or get help through **Issues** tab: https://github.com/Intrivus/Aseductor/issues
