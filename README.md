@@ -4,7 +4,7 @@
 
 > [!IMPORTANT]
 > **Aseprite developers have released their own version of compiling automation.**
-> However, this repository has been adapted to build upon that official automation, accelerating the compilation process. Contributions are welcome!
+> However, this repository has been adapted to build upon that official automation, enhancing the compilation process. Contributions are welcome!
 
 ---
 
